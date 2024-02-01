@@ -1,4 +1,4 @@
-![logo](https://github.com/alokjaiswal20/alokjaiswal20/blob/main/1cccb199a28c3b9109c6317ca9c5d5c7.jpg)
+![logo](https://github.com/alokjaiswal20/alokjaiswal20/blob/main/IMG_20240201_190020_940.jpg)
 <h1 align="center">Hi 👋, I'm Alok Jaiswal</h1>
 <h3 align="center">I want to be a good programmer.</h3>
 
