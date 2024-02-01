@@ -1,3 +1,4 @@
+![logo](https://github.com/alokjaiswal20/alokjaiswal20/blob/main/1cccb199a28c3b9109c6317ca9c5d5c7.jpg)
 <h1 align="center">Hi 👋, I'm Alok Jaiswal</h1>
 <h3 align="center">I want to be a good programmer.</h3>
 
@@ -5,7 +6,7 @@
 
 - 📫 How to reach me **booafk21@gmail.com**
 
-- ⚡ Fun fact **Bibliophile**
+- ⚡  **Bibliophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
